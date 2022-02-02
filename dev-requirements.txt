@@ -114,7 +114,7 @@ docutils==0.17.1
     #   recommonmark
     #   sphinx
     #   sphinx-rtd-theme
-entrypoints==0.3
+entrypoints==0.4
     # via
     #   jupyter-client
     #   nbconvert
