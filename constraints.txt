@@ -437,7 +437,7 @@ requests==2.27.1
     #   sphinx
 rq==1.10.1
     # via dallinger
-s3transfer==0.5.0
+s3transfer==0.5.1
     # via boto3
 selenium==4.1.0
     # via dallinger
