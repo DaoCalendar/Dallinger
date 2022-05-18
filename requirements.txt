@@ -26,7 +26,7 @@ build==0.7.0
     # via dallinger
 cached-property==1.5.2
     # via dallinger
-certifi==2021.10.8
+certifi==2022.5.18
     # via
     #   requests
     #   urllib3
