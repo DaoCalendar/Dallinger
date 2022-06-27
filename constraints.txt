@@ -40,7 +40,7 @@ beautifulsoup4==4.11.1
     # via nbconvert
 black==22.3.0
     # via dallinger
-bleach==5.0.0
+bleach==5.0.1
     # via nbconvert
 boto3==1.24.11
     # via dallinger
