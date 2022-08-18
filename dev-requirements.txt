@@ -107,7 +107,7 @@ distlib==0.3.4
     # via virtualenv
 distro==1.7.0
     # via docker-compose
-docker[ssh]==5.0.3
+docker[ssh]==6.0.0
     # via
     #   dallinger
     #   docker-compose
