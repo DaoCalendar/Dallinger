@@ -541,7 +541,7 @@ tomli==2.0.1
     #   build
     #   pep517
     #   pytest
-tornado==6.1
+tornado==6.2
     # via
     #   ipykernel
     #   jupyter-client
