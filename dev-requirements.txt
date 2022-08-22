@@ -578,7 +578,7 @@ ua-parser==0.10.0
     # via
     #   dallinger
     #   user-agents
-urllib3[secure,socks]==1.26.9
+urllib3[socks,secure]==1.26.12
     # via
     #   botocore
     #   requests
